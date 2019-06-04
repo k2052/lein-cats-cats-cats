@@ -22,7 +22,7 @@ Yes! It adds a cat gif to your project! How is that not good?
 
 ## License
 
-Copyright © 2018
+Copyright © K-2052
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
